@@ -1,0 +1,7 @@
+pluginclassname=Plus1Minus1Plugin
+pluginname=Plus1Minus1Plugin
+origin=tobiasthelen
+version=0.2.0
+description="Embeddable +1/-1 voting via Stud.IP markup."
+dbscheme=db/install.sql
+uninstalldbscheme=db/uninstall.sql
