@@ -1,5 +1,6 @@
 pluginclassname=Plus1Minus1Plugin
 pluginname=Plus1Minus1Plugin
+studipminversion=2.0
 origin=tobiasthelen
 version=0.2.0
 description="Embeddable +1/-1 voting via Stud.IP markup."
