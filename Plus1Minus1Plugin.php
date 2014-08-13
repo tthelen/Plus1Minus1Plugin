@@ -153,7 +153,7 @@ class Plus1Minus1Plugin extends StudipPlugin implements SystemPlugin
 
     static function transformMarkupPlus1Minus1($markup, $matches, $contents)
     {
-        return "\[".$matches[1].":".md5(uniqid("Plus1Minus1Plugin::transformMarkupPlus1Minus1"))."\]";
+        return "[".$matches[1].":".md5(uniqid("Plus1Minus1Plugin::transformMarkupPlus1Minus1"))."]";
     }
 
     static function markupPlus1Minus1($markup, $matches, $contents)
