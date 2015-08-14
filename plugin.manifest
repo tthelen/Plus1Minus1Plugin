@@ -1,8 +1,8 @@
 pluginclassname=Plus1Minus1Plugin
 pluginname=Plus1Minus1Plugin
-studipminversion=2.0
 origin=tobiasthelen
-version=0.2.0
+version=0.2.2
 description="Embeddable +1/-1 voting via Stud.IP markup."
+studipMinVersion=3.0
 dbscheme=db/install.sql
 uninstalldbscheme=db/uninstall.sql
